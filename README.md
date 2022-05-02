@@ -12,6 +12,6 @@ Backend Challenge with pokeAPI
 
 ##  Libraries:
 
- -requests https://docs.python-requests.org/en/master/
+ -requests https://docs.python-requests.org/en/master/ // python -m pip install requests
  
- -JSON https://docs.python.org/3/library/json.html
+ -JSON https://docs.python.org/3/library/json.html  // python -m pip install json
