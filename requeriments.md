@@ -23,7 +23,7 @@ En Houm estamos buscando personas que sean capaces de construir soluciones de ca
     Sube tu respuesta a un repo público, y envíanos tu solución al correo techtalent@houm.com con copia a daniela.bustos@houm.com
 
 
-##Preguntas
+## Preguntas
 
     Obtén cuantos pokemones poseen en sus nombres “at” y tienen 2 “a” en su nombre, incluyendo la primera del “at”. Tu respuesta debe ser un número.
     ¿Con cuántas especies de pokémon puede procrear raichu? (2 Pokémon pueden procrear si están dentro del mismo egg group). Tu respuesta debe ser un número. Recuerda eliminar los duplicados.
